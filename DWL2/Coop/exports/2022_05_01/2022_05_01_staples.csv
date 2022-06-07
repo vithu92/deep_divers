@@ -1,0 +1,443 @@
+title,href,quantity,rating,price,oldPrice,savingText,category_1,category_2,category_3
+4-egg Spaetzle,/en/food/inventories/staples/pasta/noodles/4-egg-spaetzle/p/6769964,500g,0.0,2.7,,,inventories,staples,pasta
+Arborio Risotto Rice,/en/food/inventories/staples/rice/risotto-vialone/arborio-risotto-rice/p/4438397,1000g,4.5,3.7,,,inventories,staples,rice
+Assugrin Classic Sweetener 300 per Dispenser,/en/food/inventories/staples/flour-sugar/sweeteners/assugrin-classic-sweetener-300-per-dispenser/p/3031973,300PCE,4.0,3.95,,,inventories,staples,flour-sugar
+Assugrin Classic Sweetener Refill Tablets,/en/food/inventories/staples/flour-sugar/sweeteners/assugrin-classic-sweetener-refill-tablets/p/3032342,600PCE,4.5,6.4,,,inventories,staples,flour-sugar
+Assugrin Liquid Sweetener,/en/food/inventories/staples/flour-sugar/sweeteners/assugrin-liquid-sweetener/p/3452258,200ml,4.5,6.8,,,inventories,staples,flour-sugar
+Assugrin Sweetener Powder,/en/food/inventories/staples/flour-sugar/sweeteners/assugrin-sweetener-powder/p/3032201,90g,5.0,4.6,,,inventories,staples,flour-sugar
+Baktat Roasted Salted Sunflower Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/baktat-roasted-salted-sunflower-seeds/p/4830133,150g,2.5,2.25,,,inventories,staples,grains-corn-semolina
+Barilla Albronzo Linguine,/en/food/inventories/staples/pasta/spaghetti/barilla-albronzo-linguine/p/6860673,400g,0.0,3.2,,,inventories,staples,pasta
+Barilla Albronzo Mezzi Rigatoni,/en/food/inventories/staples/pasta/penne-hollow-pasta/barilla-albronzo-mezzi-rigatoni/p/6860675,400g,0.0,3.2,,,inventories,staples,pasta
+Barilla Albronzo Spaghettoni,/en/food/inventories/staples/pasta/spaghetti/barilla-albronzo-spaghettoni/p/6860672,400g,5.0,3.2,,,inventories,staples,pasta
+Barilla Bavette No. 13,/en/food/inventories/staples/pasta/noodles/barilla-bavette-no-13/p/3032228,500g,4.5,2.5,,,inventories,staples,pasta
+Barilla Bucatini Nr. 9,/en/food/inventories/staples/pasta/spaghetti/barilla-bucatini-nr-9/p/3030674,500g,5.0,2.5,,,inventories,staples,pasta
+Barilla Capellini Nr. 1,/en/food/inventories/staples/pasta/noodles/barilla-capellini-nr-1/p/3032077,500g,5.0,2.5,,,inventories,staples,pasta
+Barilla Casarecce chickpeas,/en/food/inventories/staples/pasta/shaped-pasta-products/barilla-casarecce-chickpeas/p/6354543,250g,4.0,4.5,,,inventories,staples,pasta
+Barilla Collezione Cannelloni n. 88,/en/food/inventories/staples/pasta/lasagna-sheets/barilla-collezione-cannelloni-n-88/p/3032107,250g,4.5,2.6,,,inventories,staples,pasta
+Barilla Collezione Casarecce n. 87,/en/food/inventories/staples/pasta/shaped-pasta-products/barilla-collezione-casarecce-n-87/p/6724266,500g,5.0,2.8,,,inventories,staples,pasta
+Barilla Collezione Castellane n. 280,/en/food/inventories/staples/pasta/shaped-pasta-products/barilla-collezione-castellane-n-280/p/3550655,500g,5.0,2.8,,,inventories,staples,pasta
+Barilla Collezione Farfalle,/en/food/inventories/staples/pasta/shaped-pasta-products/barilla-collezione-farfalle/p/6860386,500g,0.0,2.5,,,inventories,staples,pasta
+Barilla Collezione Fetuccine n. 166,/en/food/inventories/staples/pasta/noodles/barilla-collezione-fetuccine-n-166/p/3700358,500g,4.5,4.1,,,inventories,staples,pasta
+Barilla Collezione Fusilli Bucati Corti n. 145,/en/food/inventories/staples/pasta/shaped-pasta-products/barilla-collezione-fusilli-bucati-corti-n-145/p/6724263,500g,4.0,2.8,,,inventories,staples,pasta
+Barilla Collezione Lasagne green with spinach n. 200,/en/food/inventories/staples/pasta/lasagna-sheets/barilla-collezione-lasagne-green-with-spinach-n-200/p/3700500,500g,5.0,4.1,,,inventories,staples,pasta
+Barilla Collezione Lasagne n. 189,/en/food/inventories/staples/pasta/lasagna-sheets/barilla-collezione-lasagne-n-189/p/3700499,500g,5.0,4.1,,,inventories,staples,pasta
+Barilla Collezione Mezze Penne Tricolore n. 170,/en/food/inventories/staples/pasta/penne-hollow-pasta/barilla-collezione-mezze-penne-tricolore-n-170/p/4219912,500g,5.0,3.2,,,inventories,staples,pasta
+Barilla Collezione Orecchiette n. 56,/en/food/inventories/staples/pasta/shaped-pasta-products/barilla-collezione-orecchiette-n-56/p/3550656,500g,5.0,2.8,,,inventories,staples,pasta
+Barilla Collezione Papiri,/en/food/inventories/staples/pasta/penne-hollow-pasta/barilla-collezione-papiri/p/6756918,450g,5.0,2.8,,,inventories,staples,pasta
+Barilla Collezione Tagliatelle green with spinach n. 167,/en/food/inventories/staples/pasta/noodles/barilla-collezione-tagliatelle-green-with-spinach-n-167/p/3700502,500g,5.0,4.1,,,inventories,staples,pasta
+Barilla Collezione Tagliatelle n.16,/en/food/inventories/staples/pasta/noodles/barilla-collezione-tagliatelle-n16/p/3700501,500g,5.0,4.1,,,inventories,staples,pasta
+Barilla Collezione Tortellini Prosciutto & Formaggi (cheese and ham),/en/food/ready-made-meals/conserved-ready-made-meals/ravioli-pastagerichte/barilla-collezione-tortellini-prosciutto-formaggi-cheese-and-ham/p/4310242,250g,4.5,4.3,,,ready-made-meals,conserved-ready-made-meals,ravioli-pastagerichte
+Barilla Collezione Trofie n. 296,/en/food/inventories/staples/pasta/spirals-macaroni/barilla-collezione-trofie-n-296/p/4219939,500g,5.0,2.8,,,inventories,staples,pasta
+Barilla Coquillettes glutenfree,/en/food/inventories/staples/pasta/spirals-macaroni/barilla-coquillettes-glutenfree/p/4798836,400g,4.5,3.5,,,inventories,staples,pasta
+Barilla Emiliane Fettuccine Ricce,/en/food/inventories/staples/pasta/noodles/barilla-emiliane-fettuccine-ricce/p/4902339,250g,5.0,3.4,,,inventories,staples,pasta
+Barilla Emiliane Tagliatelle,/en/food/inventories/staples/pasta/noodles/barilla-emiliane-tagliatelle/p/4458356,500g,5.0,4.85,,,inventories,staples,pasta
+Barilla Fusilli 1kg,/en/food/inventories/staples/pasta/spirals-macaroni/barilla-fusilli-1kg/p/3874986,1000g,0.0,3.4,,,inventories,staples,pasta
+Barilla Fusilli glutenfree,/en/food/inventories/staples/pasta/spirals-macaroni/barilla-fusilli-glutenfree/p/4798852,400g,5.0,3.5,,,inventories,staples,pasta
+Barilla Fusilli No. 98 3x  500g,/en/food/inventories/staples/pasta/spirals-macaroni/barilla-fusilli-no-98/p/3032225,3x 500g,4.5,5.25,7.5,30%,inventories,staples,pasta
+Barilla Fusilli red lentils,/en/food/inventories/staples/pasta/spirals-macaroni/barilla-fusilli-red-lentils/p/6354542,250g,4.0,4.5,,,inventories,staples,pasta
+Barilla Gnocchi,/en/food/inventories/staples/pasta/shaped-pasta-products/barilla-gnocchi/p/3031315,500g,5.0,2.5,,,inventories,staples,pasta
+Barilla Integrale Farfalle 3x  500g,/en/food/inventories/staples/pasta/wholegrain-pasta-products/barilla-integrale-farfalle/p/3851767,3x 500g,5.0,6.7,9.6,30%,inventories,staples,pasta
+Barilla Integrale Fusilli 3x  500g,/en/food/inventories/staples/pasta/wholegrain-pasta-products/barilla-integrale-fusilli/p/3587475,3x 500g,5.0,6.7,9.6,30%,inventories,staples,pasta
+Barilla Integrale Linguine (whole wheat),/en/food/inventories/staples/pasta/wholegrain-pasta-products/barilla-integrale-linguine-whole-wheat/p/6696600,500g,5.0,3.2,,,inventories,staples,pasta
+Barilla Integrale Penne Rigate (whole wheat),/en/food/inventories/staples/pasta/wholegrain-pasta-products/barilla-integrale-penne-rigate-whole-wheat/p/3587474,500g,5.0,3.2,,,inventories,staples,pasta
+Barilla Integrale Spaghetti 3x  500g,/en/food/inventories/staples/pasta/wholegrain-pasta-products/barilla-integrale-spaghetti/p/3587476,3x 500g,5.0,6.7,9.6,30%,inventories,staples,pasta
+Barilla Integrale Tortiglioni (whole wheat),/en/food/inventories/staples/pasta/wholegrain-pasta-products/barilla-integrale-tortiglioni-whole-wheat/p/6696597,500g,3.5,3.2,,,inventories,staples,pasta
+Barilla Lasagne glutenfree,/en/food/inventories/staples/pasta/lasagna-sheets/barilla-lasagne-glutenfree/p/6444416,250g,4.5,3.5,,,inventories,staples,pasta
+Barilla Maccheroni Nr. 44,/en/food/inventories/staples/pasta/spirals-macaroni/barilla-maccheroni-nr-44/p/3030672,500g,4.5,2.5,,,inventories,staples,pasta
+Barilla Penne Lisce,/en/food/inventories/staples/pasta/penne-hollow-pasta/barilla-penne-lisce/p/3032223,500g,4.5,2.5,,,inventories,staples,pasta
+Barilla Penne Rigate 1kg,/en/food/inventories/staples/pasta/penne-hollow-pasta/barilla-penne-rigate-1kg/p/3874987,1000g,5.0,3.4,,,inventories,staples,pasta
+Barilla Penne Rigate glutenfree,/en/food/inventories/staples/pasta/penne-hollow-pasta/barilla-penne-rigate-glutenfree/p/4798850,400g,4.5,3.5,,,inventories,staples,pasta
+Barilla Penne Rigate No. 73 3x  500g,/en/food/inventories/staples/pasta/penne-hollow-pasta/barilla-penne-rigate-no-73/p/3032227,3x 500g,4.5,5.25,7.5,30%,inventories,staples,pasta
+Barilla Pipe Rigate,/en/food/inventories/staples/pasta/penne-hollow-pasta/barilla-pipe-rigate/p/3032224,500g,0.0,2.5,,,inventories,staples,pasta
+Barilla Rigatoni,/en/food/inventories/staples/pasta/penne-hollow-pasta/barilla-rigatoni/p/3030673,500g,4.5,2.5,,,inventories,staples,pasta
+Barilla Risoni,/en/food/inventories/staples/pasta/shaped-pasta-products/barilla-risoni/p/4094851,0.5kg,5.0,2.5,,,inventories,staples,pasta
+"Barilla Risoni Rote Linsen, Kichererbsen und Erbsen",/en/food/inventories/staples/pasta/shaped-pasta-products/barilla-risoni-rote-linsen-kichererbsen-und-erbsen/p/6696625,300g,4.5,4.5,,,inventories,staples,pasta
+Barilla Risoni Rote Linsen und Kichererbsen,/en/food/inventories/staples/pasta/shaped-pasta-products/barilla-risoni-rote-linsen-und-kichererbsen/p/6696629,300g,4.5,4.5,,,inventories,staples,pasta
+Barilla Spaghetti glutenfree,/en/food/inventories/staples/pasta/spaghetti/barilla-spaghetti-glutenfree/p/4798854,400g,5.0,3.5,,,inventories,staples,pasta
+Barilla Spaghettini No. 3 3x  500g,/en/food/inventories/staples/pasta/spaghetti/barilla-spaghettini-no-3/p/3032602,3x 500g,4.5,5.25,7.5,30%,inventories,staples,pasta
+Barilla Spaghetti No. 5,/en/food/inventories/staples/pasta/spaghetti/barilla-spaghetti-no-5/p/3033241,1kg,5.0,3.4,,,inventories,staples,pasta
+Barilla Spaghetti No. 5 3x  500g,/en/food/inventories/staples/pasta/spaghetti/barilla-spaghetti-no-5/p/3032108,3x 500g,5.0,5.25,7.5,30%,inventories,staples,pasta
+Barilla Spaghetti red lentils,/en/food/inventories/staples/pasta/spaghetti/barilla-spaghetti-red-lentils/p/6499642,250g,5.0,4.5,,,inventories,staples,pasta
+Barilla Spaghettoni No. 7 3x  500g,/en/food/inventories/staples/pasta/spaghetti/barilla-spaghettoni-no-7/p/3032109,3x 500g,5.0,5.25,7.5,30%,inventories,staples,pasta
+"Barilla Spaghettoni Nr. 7, 1kg",/en/food/inventories/staples/pasta/spaghetti/barilla-spaghettoni-nr-7-1kg/p/4940251,1000g,0.0,3.4,,,inventories,staples,pasta
+Barilla Tagliatelle glutenfree,/en/food/inventories/staples/pasta/noodles/barilla-tagliatelle-glutenfree/p/6111512,300g,4.5,3.5,,,inventories,staples,pasta
+Barilla Torsades / Girandole,/en/food/inventories/staples/pasta/penne-hollow-pasta/barilla-torsades--girandole/p/6111470,500g,5.0,2.5,,,inventories,staples,pasta
+Barilla Tortiglioni,/en/food/inventories/staples/pasta/penne-hollow-pasta/barilla-tortiglioni/p/3032111,500g,5.0,2.5,,,inventories,staples,pasta
+Ben's Original Basmati Rice,/en/food/inventories/staples/rice/basmati-perfumed/ben-s-original-basmati-rice/p/4938038,1000g,4.5,7.95,,,inventories,staples,rice
+Ben's Original Basmati Rice with 4 Cook Bags,/en/food/inventories/staples/rice/basmati-perfumed/ben-s-original-basmati-rice-with-4-cook-bags/p/3639109,500g,5.0,4.95,,,inventories,staples,rice
+Ben's Original Express Basmati Rice,/en/food/inventories/staples/rice/basmati-perfumed/ben-s-original-express-basmati-rice/p/4474740,250g,4.5,2.7,,,inventories,staples,rice
+Ben's Original Express Long Grain Rice,/en/food/inventories/staples/rice/long-grain-vitamin/ben-s-original-express-long-grain-rice/p/3386507,250g,5.0,2.7,,,inventories,staples,rice
+Ben's Original Jasmin Rice,/en/food/inventories/staples/rice/basmati-perfumed/ben-s-original-jasmin-rice/p/4947815,1000g,3.0,6.95,,,inventories,staples,rice
+Ben's Original Long Grain Rice 10 min.,/en/food/inventories/staples/rice/long-grain-vitamin/ben-s-original-long-grain-rice-10-min/p/4854369,2000g,0.0,9.95,,,inventories,staples,rice
+Ben's Original Long Grain Rice 10 min.,/en/food/inventories/staples/rice/long-grain-vitamin/ben-s-original-long-grain-rice-10-min/p/3639191,1000g,4.5,5.95,,,inventories,staples,rice
+Ben's Original Long Grain Rice 10 min. 8 Bags,/en/food/inventories/staples/rice/long-grain-vitamin/ben-s-original-long-grain-rice-10-min-8-bags/p/3956022,1000g,4.5,5.95,,,inventories,staples,rice
+Ben's Original Long Grain Rice 20 min.,/en/food/inventories/staples/rice/long-grain-vitamin/ben-s-original-long-grain-rice-20-min/p/3639190,2000g,5.0,7.2,,,inventories,staples,rice
+Ben's Original Long Grain Rice 20 min.,/en/food/inventories/staples/rice/long-grain-vitamin/ben-s-original-long-grain-rice-20-min/p/3639118,1000g,5.0,5.7,,,inventories,staples,rice
+Ben's Original Risotto 15 Min.,/en/food/inventories/staples/rice/risotto-vialone/ben-s-original-risotto-15-min/p/4972001,2000g,0.0,9.95,,,inventories,staples,rice
+Ben's Original Risotto 15 Min.,/en/food/inventories/staples/rice/risotto-vialone/ben-s-original-risotto-15-min/p/3639192,1000g,4.5,5.45,,,inventories,staples,rice
+Ben's Original Tomato Herb Risotto,/en/food/inventories/staples/rice/risotto-vialone/ben-s-original-tomato-herb-risotto/p/3891289,250g,5.0,3.6,,,inventories,staples,rice
+Ben's Original Whole Grain Rice,/en/food/inventories/staples/rice/long-grain-vitamin/ben-s-original-whole-grain-rice/p/4863506,1000g,4.0,4.95,,,inventories,staples,rice
+Ben's Original Wild Rice Mix with 4 Cook Bags,/en/food/inventories/staples/rice/wholegrain-wild-brown/ben-s-original-wild-rice-mix-with-4-cook-bags/p/3639110,500g,5.0,4.95,,,inventories,staples,rice
+Berner Rösti,/en/food/inventories/staples/potato-products/roesti-gratin/berner-roesti/p/3030284,500g,4.5,2.85,,,inventories,staples,potato-products
+Betty Bossi Backmehl,/en/food/inventories/staples/flour-sugar/flour/betty-bossi-backmehl/p/5655134,1kg,4.5,1.95,,,inventories,staples,flour-sugar
+Betty Bossi Icing Sugar,/en/food/inventories/staples/flour-sugar/powder-sugar-special-sugar/betty-bossi-icing-sugar/p/4944101,500g,5.0,1.5,,,inventories,staples,flour-sugar
+Betty Bossi Icing Sugar Mill,/en/food/inventories/staples/flour-sugar/powder-sugar-special-sugar/betty-bossi-icing-sugar-mill/p/4949352,250g,4.5,1.7,,,inventories,staples,flour-sugar
+Betty Bossi Poppy Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/betty-bossi-poppy-seeds/p/6567690,40g,3.0,1.2,,,inventories,staples,grains-corn-semolina
+Betty Bossi Sugar Crystals,/en/food/inventories/staples/flour-sugar/powder-sugar-special-sugar/betty-bossi-sugar-crystals/p/6736444,250g,0.0,1.1,,,inventories,staples,flour-sugar
+Betty Bossi Very Fine Sugar,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/betty-bossi-very-fine-sugar/p/4927583,600g,5.0,1.5,,,inventories,staples,flour-sugar
+Bio spelt Drelli,/en/food/inventories/staples/pasta/shaped-pasta-products/bio-spelt-drelli/p/6682758,400g,4.0,3.4,,,inventories,staples,pasta
+Bio spelt Hörnli,/en/food/inventories/staples/pasta/spirals-macaroni/bio-spelt-hoernli/p/6688083,400g,5.0,3.4,,,inventories,staples,pasta
+Bio spelt Penne Rigate,/en/food/inventories/staples/pasta/wholegrain-pasta-products/bio-spelt-penne-rigate/p/4780196,400g,4.5,3.4,,,inventories,staples,pasta
+Bio spelt Spaghetti,/en/food/inventories/staples/pasta/spaghetti/bio-spelt-spaghetti/p/6688081,500g,5.0,3.7,,,inventories,staples,pasta
+Blue Elephant Thai Jasmine Rice,/en/food/inventories/staples/rice/basmati-perfumed/blue-elephant-thai-jasmine-rice/p/3698165,500g,5.0,4.95,,,inventories,staples,rice
+Braid Bread Flour,/en/food/inventories/staples/flour-sugar/flour/braid-bread-flour/p/6562476,1000g,5.0,2.5,,33% on 3 or more,inventories,staples,flour-sugar
+Breadcrumbs,/en/food/inventories/staples/breadcrumbs-sauce-thickener/breadcrumbs/p/6222508,350g,4.5,1.45,,,inventories,staples,breadcrumbs-sauce-thickener
+Brown Lentils,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/brown-lentils/p/6110429,500g,5.0,2.4,,,inventories,staples,grains-corn-semolina
+Bschüssig 3-egg Pasta Shells,/en/food/inventories/staples/pasta/shaped-pasta-products/bschuessig-3-egg-pasta-shells/p/6758924,500g,0.0,3.45,,,inventories,staples,pasta
+Bschüssig Schwinger macaroni 3-egg pasta,/en/food/inventories/staples/pasta/spirals-macaroni/bschuessig-schwinger-macaroni-3-egg-pasta/p/6758949,500g,0.0,3.45,,,inventories,staples,pasta
+Bschüssig Spätzli 3 Ei,/en/food/inventories/staples/pasta/noodles/bschuessig-spaetzli-3-ei/p/6758983,500g,0.0,3.45,,,inventories,staples,pasta
+Cacarola Arroz Carolino Rice,/en/food/inventories/staples/rice/long-grain-vitamin/cacarola-arroz-carolino-rice/p/6597728,1kg,5.0,2.95,,,inventories,staples,rice
+Caçarola Dried Black Beans,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/cacarola-dried-black-beans/p/3710925,500g,4.5,2.9,,,inventories,staples,grains-corn-semolina
+Camolino Rice,/en/food/inventories/staples/rice/long-grain-vitamin/camolino-rice/p/3120061,1000g,4.5,2.6,,,inventories,staples,rice
+Canderel Sweetener Tablets 300 Pieces,/en/food/inventories/staples/flour-sugar/sweeteners/canderel-sweetener-tablets-300-pieces/p/3032581,300PCE,5.0,4.95,,,inventories,staples,flour-sugar
+Canderel Sweetner Refill Packets 500 Pieces,/en/food/inventories/staples/flour-sugar/sweeteners/canderel-sweetner-refill-packets-500-pieces/p/3031302,500PCE,4.0,6.95,,,inventories,staples,flour-sugar
+Carnaroli Risotto Rice,/en/food/inventories/staples/rice/risotto-vialone/carnaroli-risotto-rice/p/3120066,1000g,5.0,4.2,,,inventories,staples,rice
+Carnaroli Risotto Rice,/en/food/inventories/staples/rice/risotto-vialone/carnaroli-risotto-rice/p/5627251,2000g,0.0,7.95,,,inventories,staples,rice
+Coop Jasmin Reis MH 1Kg,/en/food/inventories/staples/rice/basmati-perfumed/coop-jasmin-reis-mh-1kg/p/4085163,1000g,4.5,3.5,,,inventories,staples,rice
+Coop Rösti fixfertig,/en/food/inventories/staples/potato-products/roesti-gratin/coop-roesti-fixfertig/p/3030163,750g,4.5,2.95,,,inventories,staples,potato-products
+De Cecco Casareccia Pasta,/en/food/inventories/staples/pasta/shaped-pasta-products/de-cecco-casareccia-pasta/p/3031057,500g,5.0,2.95,,,inventories,staples,pasta
+De Cecco Cavatappi,/en/food/inventories/staples/pasta/spirals-macaroni/de-cecco-cavatappi/p/6128013,500g,5.0,2.95,,,inventories,staples,pasta
+De Cecco Fusilli Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/de-cecco-fusilli-pasta/p/3031048,500g,5.0,2.95,,,inventories,staples,pasta
+De Cecco Linguine no.7 Pasta,/en/food/inventories/staples/pasta/spaghetti/de-cecco-linguine-no7-pasta/p/3030428,500g,5.0,2.95,,,inventories,staples,pasta
+De Cecco Orecchiette Pasta no. 91,/en/food/inventories/staples/pasta/shaped-pasta-products/de-cecco-orecchiette-pasta-no-91/p/4458591,500g,5.0,2.95,,,inventories,staples,pasta
+De Cecco Penne Rigate Pasta,/en/food/inventories/staples/pasta/penne-hollow-pasta/de-cecco-penne-rigate-pasta/p/3031894,500g,5.0,2.95,,,inventories,staples,pasta
+De Cecco Potato Gnocchi Pasta,/en/food/inventories/staples/pasta/shaped-pasta-products/de-cecco-potato-gnocchi-pasta/p/4853441,500g,4.5,2.95,,,inventories,staples,pasta
+De Cecco Rigatoni,/en/food/inventories/staples/pasta/penne-hollow-pasta/de-cecco-rigatoni/p/4032966,500g,4.5,2.95,,,inventories,staples,pasta
+De Cecco Spaghettini Pasta,/en/food/inventories/staples/pasta/spaghetti/de-cecco-spaghettini-pasta/p/3031892,500g,5.0,2.95,,,inventories,staples,pasta
+De Cecco Spaghetti Pasta,/en/food/inventories/staples/pasta/spaghetti/de-cecco-spaghetti-pasta/p/3031893,500g,5.0,2.95,,,inventories,staples,pasta
+Dona White Beans 1kg,/en/food/inventories/canned-conserved/vegetables/beans-pulses/dona-white-beans/p/5934870,1kg,5.0,3.8,,,inventories,canned-conserved,vegetables
+Dried String Beans,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/dried-string-beans/p/3030094,100g,3.5,1.7,,,inventories,staples,grains-corn-semolina
+Ebly Couscous Quinoa Mix,/en/food/inventories/staples/grains-corn-semolina/couscous-quinoa-tabbouleh/ebly-couscous-quinoa-mix/p/5756034,375g,5.0,4.5,,,inventories,staples,grains-corn-semolina
+Ebly Original Pre-Cooked Wheat,/en/food/inventories/staples/grains-corn-semolina/couscous-quinoa-tabbouleh/ebly-original-pre-cooked-wheat/p/4938042,1000g,5.0,6.95,,,inventories,staples,grains-corn-semolina
+Echt Entlebucher vo Härze Spelt Pasta,/en/food/inventories/staples/pasta/shaped-pasta-products/echt-entlebucher-vo-haerze-spelt-pasta/p/4705986,350g,4.5,5.6,,,inventories,staples,pasta
+Entlebuch Tresse Bread Flour,/en/food/inventories/staples/flour-sugar/flour/entlebuch-tresse-bread-flour/p/5787890,500g,5.0,2.45,,,inventories,staples,flour-sugar
+Erythrit,/en/food/inventories/staples/flour-sugar/sweeteners/erythrit/p/6336234,500g,5.0,6.5,,,inventories,staples,flour-sugar
+Fairtrade Basmati Rice,/en/food/inventories/staples/rice/basmati-perfumed/fairtrade-basmati-rice/p/5627252,2000g,5.0,9.95,,,inventories,staples,rice
+Fairtrade Basmati Rice,/en/food/inventories/staples/rice/basmati-perfumed/fairtrade-basmati-rice/p/4085161,1000g,4.5,4.95,,,inventories,staples,rice
+Fairtrade Corse Raw Sugar,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/fairtrade-corse-raw-sugar/p/4407776,1kg,5.0,2.1,,,inventories,staples,flour-sugar
+Fairtrade Jasmine Rice,/en/food/inventories/staples/rice/basmati-perfumed/fairtrade-jasmine-rice/p/5627253,2000g,4.5,6.7,,,inventories,staples,rice
+Fairtrade Refined Raw Sugar,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/fairtrade-refined-raw-sugar/p/4407778,1kg,5.0,2.3,,,inventories,staples,flour-sugar
+Fairtrade White Raw Sugar,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/fairtrade-white-raw-sugar/p/4793902,600g,5.0,1.3,,,inventories,staples,flour-sugar
+Fine-crystal sugar IP Suisse,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/fine-crystal-sugar-ip-suisse/p/6582330,1000g,4.5,1.0,,,inventories,staples,flour-sugar
+Fine Food Carnaroli Super Fine Rice,/en/food/inventories/staples/rice/risotto-vialone/fine-food-carnaroli-super-fine-rice/p/3661466,250g,4.5,2.95,,,inventories,staples,rice
+Fine Food Fregola Tostata,/en/food/inventories/staples/pasta/shaped-pasta-products/fine-food-fregola-tostata/p/6030301,500g,5.0,3.95,,,inventories,staples,pasta
+Fine Food Lemon Wheat Tagliolini Pasta,/en/food/inventories/staples/pasta/noodles/fine-food-lemon-wheat-tagliolini-pasta/p/3699501,250g,3.5,5.5,,,inventories,staples,pasta
+Fine Food Pappardelle Egg Pasta,/en/food/inventories/staples/pasta/noodles/fine-food-pappardelle-egg-pasta/p/3510131,400g,4.5,5.2,,,inventories,staples,pasta
+Fine Food Pici Pasta,/en/food/inventories/staples/pasta/noodles/fine-food-pici-pasta/p/5769557,500g,5.0,4.5,,,inventories,staples,pasta
+Fine Food Sushi Reis Koshihikari,/en/food/inventories/staples/rice/basmati-perfumed/fine-food-sushi-reis-koshihikari/p/6164013,250g,4.5,4.95,,,inventories,staples,rice
+Fine Food Tagliatelle Egg Pasta,/en/food/inventories/staples/pasta/noodles/fine-food-tagliatelle-egg-pasta/p/3510133,500g,5.0,5.2,,,inventories,staples,pasta
+Fine Food Venere Whole Grain Black Rice,/en/food/inventories/staples/rice/wholegrain-wild-brown/fine-food-venere-whole-grain-black-rice/p/3660254,250g,4.5,3.5,,,inventories,staples,rice
+Fine Grain Dorata Polenta,/en/food/inventories/staples/grains-corn-semolina/polenta-bramata/fine-grain-dorata-polenta/p/3558976,750g,5.0,1.8,,,inventories,staples,grains-corn-semolina
+Gala 3-Egg Butterfly Pasta,/en/food/inventories/staples/pasta/shaped-pasta-products/gala-3-egg-butterfly-pasta/p/4841440,500g,5.0,1.95,,,inventories,staples,pasta
+Gala 3-Egg Drelli,/en/food/inventories/staples/pasta/spirals-macaroni/gala-3-egg-drelli/p/4841624,500g,5.0,1.95,,,inventories,staples,pasta
+Gala 3-Egg fine Hörnli Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/gala-3-egg-fine-hoernli-pasta/p/4841625,500g,5.0,1.65,,,inventories,staples,pasta
+Gala 3-Egg Medium Macaroni Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/gala-3-egg-medium-macaroni-pasta/p/4841659,500g,4.5,1.65,,,inventories,staples,pasta
+Gala 3-Egg Spiral Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/gala-3-egg-spiral-pasta/p/4841598,500g,4.5,1.95,,,inventories,staples,pasta
+Gala 3-Egg Thin Pasta,/en/food/inventories/staples/pasta/noodles/gala-3-egg-thin-pasta/p/4841590,500g,4.5,1.95,,,inventories,staples,pasta
+Gala 3-Egg Wave Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/gala-3-egg-wave-pasta/p/4837877,500g,5.0,1.95,,,inventories,staples,pasta
+Gala 3-Eier Aelpler Magronen,/en/food/inventories/staples/pasta/spirals-macaroni/gala-3-eier-aelpler-magronen/p/4840438,500g,5.0,1.95,,,inventories,staples,pasta
+Gala 3-Eier Hörnli grob,/en/food/inventories/staples/pasta/spirals-macaroni/gala-3-eier-hoernli-grob/p/4841660,500g,5.0,1.65,,,inventories,staples,pasta
+Gala 3-Eier Müscheli,/en/food/inventories/staples/pasta/shaped-pasta-products/gala-3-eier-muescheli/p/4841441,500g,5.0,1.95,,,inventories,staples,pasta
+Gala 3-Eier Nudeln breit,/en/food/inventories/staples/pasta/noodles/gala-3-eier-nudeln-breit/p/4841592,500g,4.5,1.95,,,inventories,staples,pasta
+Gala 3-Eier Penne Rigate,/en/food/inventories/staples/pasta/penne-hollow-pasta/gala-3-eier-penne-rigate/p/4841621,500g,5.0,1.95,,,inventories,staples,pasta
+Gala Chinese Noodles,/en/food/inventories/staples/pasta/noodles/gala-chinese-noodles/p/4833905,500g,5.0,1.95,,,inventories,staples,pasta
+Gala Linguine Pasta,/en/food/inventories/staples/pasta/noodles/gala-linguine-pasta/p/4833933,500g,5.0,1.95,,,inventories,staples,pasta
+Gala Nudeln extra-breit,/en/food/inventories/staples/pasta/noodles/gala-nudeln-extra-breit/p/4841595,500g,5.0,1.95,,,inventories,staples,pasta
+Gala Spaghetti,/en/food/inventories/staples/pasta/spaghetti/gala-spaghetti/p/5713819,750g,4.5,2.4,,,inventories,staples,pasta
+Gala Spaghettini Pasta,/en/food/inventories/staples/pasta/spaghetti/gala-spaghettini-pasta/p/5713818,750g,5.0,2.4,,,inventories,staples,pasta
+Gallo Carnaroli Risotto Rice,/en/food/inventories/staples/rice/risotto-vialone/gallo-carnaroli-risotto-rice/p/4135231,1000g,4.5,7.5,,,inventories,staples,rice
+Göral Roasted Pumpkin Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/goeral-roasted-pumpkin-seeds/p/3659832,400g,4.5,4.2,,,inventories,staples,grains-corn-semolina
+Green Lentils,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/green-lentils/p/6151935,500g,5.0,2.4,,,inventories,staples,grains-corn-semolina
+Green pistachios,/en/food/inventories/staples/grains-corn-semolina/seeds/green-pistachios/p/6776676,100g,0.0,6.5,,,inventories,staples,grains-corn-semolina
+Half & Half Flour,/en/food/inventories/staples/flour-sugar/flour/half-half-flour/p/3032096,1kg,4.5,2.0,,33% on 3 or more,inventories,staples,flour-sugar
+Hanamal Kosher Breadcrumbs,/en/food/inventories/staples/breadcrumbs-sauce-thickener/hanamal-kosher-breadcrumbs/p/3377726,300g,5.0,3.95,,,inventories,staples,breadcrumbs-sauce-thickener
+Hello Sweety,/en/food/inventories/staples/flour-sugar/sweeteners/hello-sweety/p/6744291,250g,5.0,5.95,,,inventories,staples,flour-sugar
+Hermesetas Sweetener Tablets 1200 Pieces,/en/food/inventories/staples/flour-sugar/sweeteners/hermesetas-sweetener-tablets-1200-pieces/p/3032469,1200PCE,4.0,6.6,,,inventories,staples,flour-sugar
+Hero  Berner Rösti,/en/food/inventories/staples/potato-products/roesti-gratin/hero-berner-roesti/p/3032027,500g,5.0,4.7,,,inventories,staples,potato-products
+Hero Rösti,/en/food/inventories/staples/potato-products/roesti-gratin/hero-roesti/p/3032384,500g,4.5,3.7,,,inventories,staples,potato-products
+Hero Rösti,/en/food/inventories/staples/potato-products/roesti-gratin/hero-roesti/p/3031799,275g,5.0,2.85,,,inventories,staples,potato-products
+Hero Rösti Diavolo,/en/food/inventories/staples/potato-products/roesti-gratin/hero-roesti-diavolo/p/6604023,425g,5.0,4.8,,,inventories,staples,potato-products
+Hero Rösti with potato spice,/en/food/inventories/staples/potato-products/roesti-gratin/hero-roesti-with-potato-spice/p/6743691,500g,5.0,3.6,,,inventories,staples,potato-products
+Heumann Kosher Matzo Flour,/en/food/inventories/staples/flour-sugar/flour/heumann-kosher-matzo-flour/p/3030861,400g,5.0,7.25,,,inventories,staples,flour-sugar
+Italian Risotto Rice,/en/food/inventories/staples/rice/risotto-vialone/italian-risotto-rice/p/4101800,1000g,4.5,2.95,,,inventories,staples,rice
+JaMaDu Zoo Animals Pasta,/en/food/inventories/staples/pasta/shaped-pasta-products/jamadu-zoo-animals-pasta/p/3930750,500g,5.0,2.5,,,inventories,staples,pasta
+Jean Martin Tabbouleh,/en/food/inventories/staples/grains-corn-semolina/couscous-quinoa-tabbouleh/jean-martin-tabbouleh/p/3021070,630g,4.5,6.95,,,inventories,staples,grains-corn-semolina
+Karma Bio Falafel Fertig-Mischung 186G,/en/food/inventories/staples/flour-sugar/flour/karma-bio-falafel-fertig-mischung-186g/p/4919878,186g,4.0,3.95,,,inventories,staples,flour-sugar
+Karma Buckwheat Fusilli Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/karma-buckwheat-fusilli-pasta/p/5806501,300g,4.0,4.6,,20% on 2 or more,inventories,staples,pasta
+Karma Chickpea Fusilli Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/karma-chickpea-fusilli-pasta/p/5806502,300g,4.5,4.6,,20% on 2 or more,inventories,staples,pasta
+Karma Green Pea Fusilli,/en/food/inventories/staples/pasta/spirals-macaroni/karma-green-pea-fusilli/p/6140311,300g,4.5,4.6,,20% on 2 or more,inventories,staples,pasta
+Karma Red Lentil Fusilli Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/karma-red-lentil-fusilli-pasta/p/5806503,300g,4.0,4.6,,20% on 2 or more,inventories,staples,pasta
+Karma Red Lentil Sweet Potato Noodles,/en/food/inventories/staples/pasta/noodles/karma-red-lentil-sweet-potato-noodles/p/6390805,300g,3.5,4.6,,20% on 2 or more,inventories,staples,pasta
+Karma Sprouted Muesli with pumpkin seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/karma-sprouted-muesli-with-pumpkin-seeds/p/6720334,350g,0.0,8.95,,20% on 2 or more,inventories,staples,grains-corn-semolina
+Karma Yellow Lentil Penne,/en/food/inventories/staples/pasta/penne-hollow-pasta/karma-yellow-lentil-penne/p/6020764,300g,4.0,4.6,,20% on 2 or more,inventories,staples,pasta
+Kernser Rustico Macaroni Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/kernser-rustico-macaroni-pasta/p/6642779,400g,5.0,3.95,,,inventories,staples,pasta
+Kernser Rustico Spaghetti Pasta,/en/food/inventories/staples/pasta/spaghetti/kernser-rustico-spaghetti-pasta/p/6642780,400g,5.0,3.95,,,inventories,staples,pasta
+Kernser Rustico Spiral Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/kernser-rustico-spiral-pasta/p/6642776,400g,5.0,3.95,,,inventories,staples,pasta
+Kernser UrDinkel Amori Pasta,/en/food/inventories/staples/pasta/shaped-pasta-products/kernser-urdinkel-amori-pasta/p/6502264,500g,5.0,4.2,,,inventories,staples,pasta
+Kernser UrDinkel Penne Rigate Pasta,/en/food/inventories/staples/pasta/penne-hollow-pasta/kernser-urdinkel-penne-rigate-pasta/p/6502265,500g,5.0,4.2,,,inventories,staples,pasta
+Kernser UrDinkel Spaghetti Pasta,/en/food/inventories/staples/pasta/spaghetti/kernser-urdinkel-spaghetti-pasta/p/6502261,500g,5.0,4.2,,,inventories,staples,pasta
+Knorr Maizena Corn Starch,/en/food/inventories/staples/breadcrumbs-sauce-thickener/knorr-maizena-corn-starch/p/3031916,250g,5.0,2.2,,,inventories,staples,breadcrumbs-sauce-thickener
+Knorr Maizena Express Dark Sauce Thickener,/en/food/inventories/staples/breadcrumbs-sauce-thickener/knorr-maizena-express-dark-sauce-thickener/p/3032596,250g,5.0,3.95,,,inventories,staples,breadcrumbs-sauce-thickener
+Knorr Maizena Express White Sauce Thickener,/en/food/inventories/staples/breadcrumbs-sauce-thickener/knorr-maizena-express-white-sauce-thickener/p/3032595,250g,4.5,3.95,,,inventories,staples,breadcrumbs-sauce-thickener
+Knorr Milanese Risotto Mix,/en/food/inventories/staples/rice/risotto-vialone/knorr-milanese-risotto-mix/p/3030534,250g,4.5,3.8,,,inventories,staples,rice
+Knorr Mushroom Risotto Mix,/en/food/inventories/staples/rice/risotto-vialone/knorr-mushroom-risotto-mix/p/3030535,250g,4.5,4.8,,,inventories,staples,rice
+Knorr Naturaplan organic mashed potatoes 2x1 portion,/en/food/inventories/staples/potato-products/mashed-potatoes/knorr-naturaplan-organic-mashed-potatoes-2x1-portion/p/6743012,74g,0.0,3.7,,,inventories,staples,potato-products
+Knorr Naturaplan organic mashed potatoes 3x2 portions,/en/food/inventories/staples/potato-products/mashed-potatoes/knorr-naturaplan-organic-mashed-potatoes-3x2-portions/p/6750100,222g,0.0,6.6,,,inventories,staples,potato-products
+Knorr Parmesan Risotto Mix,/en/food/inventories/staples/rice/risotto-vialone/knorr-parmesan-risotto-mix/p/3033173,250g,4.5,4.8,,,inventories,staples,rice
+Knorr Ready to Use Breadcrumb Mix,/en/food/inventories/staples/breadcrumbs-sauce-thickener/knorr-ready-to-use-breadcrumb-mix/p/3022765,300g,5.0,4.3,,,inventories,staples,breadcrumbs-sauce-thickener
+Knorr Risotto Tomato,/en/food/inventories/staples/rice/risotto-vialone/knorr-risotto-tomato/p/3030533,250g,4.0,3.8,,,inventories,staples,rice
+Knorr Stocki Express Broccoli Cream Mashed Potatoes,/en/food/ready-made-meals/conserved-ready-made-meals/noodles-soups-and-more/knorr-stocki-express-broccoli-cream-mashed-potatoes/p/3531753,45g,4.5,2.3,,,ready-made-meals,conserved-ready-made-meals,noodles-soups-and-more
+Knorr Stocki Mashed Potatoes 3x3 Portions,/en/food/inventories/staples/potato-products/mashed-potatoes/knorr-stocki-mashed-potatoes-3x3-portions/p/3031971,330g,4.5,5.2,,,inventories,staples,potato-products
+Knorr Stocki Mashed Potatoes 4 Portions,/en/food/inventories/staples/potato-products/mashed-potatoes/knorr-stocki-mashed-potatoes-4-portions/p/3031970,145g,4.5,3.95,,,inventories,staples,potato-products
+Knorr Stocki Mashed Potatoes with Milk 2 Portions,/en/food/inventories/staples/potato-products/mashed-potatoes/knorr-stocki-mashed-potatoes-with-milk-2-portions/p/3031969,86g,4.5,3.4,,,inventories,staples,potato-products
+La Perruche Brown Sugar,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/la-perruche-brown-sugar/p/4777351,750g,5.0,3.95,,,inventories,staples,flour-sugar
+Maggi Quick Lunch Mashed Potatoes with Meatballs,/en/food/ready-made-meals/conserved-ready-made-meals/noodles-soups-and-more/maggi-quick-lunch-mashed-potatoes-with-meatballs/p/6100870,46g,4.0,3.25,,,ready-made-meals,conserved-ready-made-meals,noodles-soups-and-more
+Maggi Seasoned Ticinese Polenta,/en/food/inventories/staples/grains-corn-semolina/polenta-bramata/maggi-seasoned-ticinese-polenta/p/3032094,188g,4.5,3.3,,,inventories,staples,grains-corn-semolina
+Mashed Potatoes 4x3 Portions,/en/food/inventories/staples/potato-products/mashed-potatoes/mashed-potatoes-4x3-portions/p/5734549,324g,2.5,3.95,,,inventories,staples,potato-products
+Medium Grain Polenta,/en/food/inventories/staples/grains-corn-semolina/polenta-bramata/medium-grain-polenta/p/3557735,750g,5.0,1.8,,,inventories,staples,grains-corn-semolina
+Mei Yang Brown Rice Noodles,/en/food/inventories/staples/pasta/noodles/mei-yang-brown-rice-noodles/p/6524820,250g,5.0,3.2,,,inventories,staples,pasta
+Mei Yang Chinese Noodles,/en/food/inventories/staples/pasta/noodles/mei-yang-chinese-noodles/p/4499622,250g,4.0,2.3,,,inventories,staples,pasta
+Mei Yang Glass Noodles,/en/food/inventories/staples/pasta/noodles/mei-yang-glass-noodles/p/4499681,100g,5.0,1.7,,,inventories,staples,pasta
+Mei Yang Rice Noodles,/en/food/inventories/staples/pasta/noodles/mei-yang-rice-noodles/p/4499710,250g,5.0,3.1,,,inventories,staples,pasta
+Mei Yang Rice Vermicelli,/en/food/inventories/staples/pasta/noodles/mei-yang-rice-vermicelli/p/4499711,250g,4.0,3.1,,,inventories,staples,pasta
+Milaneza Bagos Biava,/en/food/inventories/staples/pasta/shaped-pasta-products/milaneza-bagos-biava/p/3714496,250g,5.0,0.95,,,inventories,staples,pasta
+Miracoli Spaghetti with Tomato Sauce,/en/food/inventories/staples/pasta/spaghetti/miracoli-spaghetti-with-tomato-sauce/p/3022383,380g,4.5,3.6,,,inventories,staples,pasta
+Morga Soy Whole Grain Macaroni Pasta,/en/food/inventories/staples/pasta/wholegrain-pasta-products/morga-soy-whole-grain-macaroni-pasta/p/3444704,500g,5.0,4.25,,,inventories,staples,pasta
+Morga Soy Whole Grain Penne Pasta,/en/food/inventories/staples/pasta/wholegrain-pasta-products/morga-soy-whole-grain-penne-pasta/p/3444703,500g,5.0,4.25,,,inventories,staples,pasta
+Morga Soy Whole Grain Spaghetti Pasta,/en/food/inventories/staples/pasta/wholegrain-pasta-products/morga-soy-whole-grain-spaghetti-pasta/p/3444702,500g,5.0,4.25,,,inventories,staples,pasta
+Napoli Fusilli Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/napoli-fusilli-pasta/p/4830929,500g,3.5,1.6,,,inventories,staples,pasta
+Napoli Gnocchi,/en/food/inventories/staples/pasta/shaped-pasta-products/napoli-gnocchi/p/4830847,500g,3.5,1.6,,,inventories,staples,pasta
+Napoli Macaroni Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/napoli-macaroni-pasta/p/6536804,500g,5.0,1.6,,,inventories,staples,pasta
+Napoli Penne Rigate,/en/food/inventories/staples/pasta/penne-hollow-pasta/napoli-penne-rigate/p/4830936,500g,4.0,1.6,,,inventories,staples,pasta
+Napoli Spaghettini Pasta,/en/food/inventories/staples/pasta/spaghetti/napoli-spaghettini-pasta/p/4830934,500g,5.0,1.2,,,inventories,staples,pasta
+Napoli Spaghetti Pasta,/en/food/inventories/staples/pasta/spaghetti/napoli-spaghetti-pasta/p/4830935,500g,4.5,1.2,,,inventories,staples,pasta
+Naturaplan Bio Buckwheat Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-bio-buckwheat-flour/p/6290395,500g,3.5,3.6,,,inventories,staples,flour-sugar
+Naturaplan Bio Flohsamenschalen,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-bio-flohsamenschalen/p/6580413,150g,0.0,6.5,,,inventories,staples,grains-corn-semolina
+Naturaplan Bio MH Rohrzucker Würfel,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/naturaplan-bio-mh-rohrzucker-wuerfel/p/6575264,500g,3.5,2.6,,,inventories,staples,flour-sugar
+Naturaplan Bio Würfelzucker,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/naturaplan-bio-wuerfelzucker/p/6368893,500g,5.0,2.2,,,inventories,staples,flour-sugar
+Naturaplan Organic 3-Egg Chinese Noodles,/en/food/inventories/staples/pasta/noodles/naturaplan-organic-3-egg-chinese-noodles/p/4841667,500g,4.5,3.3,,,inventories,staples,pasta
+Naturaplan Organic 3-Egg Macaroni Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/naturaplan-organic-3-egg-macaroni-pasta/p/4841668,500g,5.0,2.8,,,inventories,staples,pasta
+Naturaplan Organic 3-Egg Spaghetti Pasta,/en/food/inventories/staples/pasta/spaghetti/naturaplan-organic-3-egg-spaghetti-pasta/p/4841790,500g,4.5,3.4,,,inventories,staples,pasta
+Naturaplan Organic 3-Egg Spiral Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/naturaplan-organic-3-egg-spiral-pasta/p/4841793,500g,5.0,3.4,,,inventories,staples,pasta
+Naturaplan Organic Agave Syrup,/en/food/inventories/staples/flour-sugar/sweeteners/naturaplan-organic-agave-syrup/p/4779979,345g,5.0,5.95,,,inventories,staples,flour-sugar
+Naturaplan Organic Beluga Lentils,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/naturaplan-organic-beluga-lentils/p/5650479,500g,5.0,4.2,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Borlotti Beans,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/naturaplan-organic-borlotti-beans/p/3031902,500g,2.5,3.8,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Breadcrumbs,/en/food/inventories/staples/breadcrumbs-sauce-thickener/naturaplan-organic-breadcrumbs/p/6750338,250g,5.0,1.95,,,inventories,staples,breadcrumbs-sauce-thickener
+Naturaplan Organic Campiuns Flaxseed,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-organic-campiuns-flaxseed/p/6099947,200g,5.0,3.95,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Campiuns Mixed Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-organic-campiuns-mixed-seeds/p/6096991,200g,5.0,5.95,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Campiuns Swiss Gold Millet,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/naturaplan-organic-campiuns-swiss-gold-millet/p/6222246,500g,5.0,4.5,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Campiuns Whole Grain Spelt Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-campiuns-whole-grain-spelt-flour/p/6148510,500g,5.0,3.5,,,inventories,staples,flour-sugar
+Naturaplan Organic Carnaroli Rice,/en/food/inventories/staples/rice/risotto-vialone/naturaplan-organic-carnaroli-rice/p/4750780,1000g,5.0,5.5,,,inventories,staples,rice
+Naturaplan Organic CH Hemp Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-organic-ch-hemp-seeds/p/6810487,150g,0.0,8.5,,,inventories,staples,grains-corn-semolina
+Naturaplan organic chickpea flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-chickpea-flour/p/6711246,300g,5.0,2.95,,,inventories,staples,flour-sugar
+Naturaplan Organic Coarse Bramata Polenta,/en/food/inventories/staples/grains-corn-semolina/polenta-bramata/naturaplan-organic-coarse-bramata-polenta/p/3557769,500g,5.0,1.95,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Corn Starch,/en/food/inventories/staples/breadcrumbs-sauce-thickener/naturaplan-organic-corn-starch/p/6116549,200g,5.0,2.5,,,inventories,staples,breadcrumbs-sauce-thickener
+Naturaplan Organic Cracked Rye Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-cracked-rye-flour/p/3877062,1000g,5.0,3.3,,,inventories,staples,flour-sugar
+Naturaplan Organic Crushed Flaxseed,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-organic-crushed-flaxseed/p/5857903,250g,4.5,2.2,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Date Syrup,/en/food/inventories/staples/flour-sugar/sweeteners/naturaplan-organic-date-syrup/p/5846763,250g,4.5,5.95,,,inventories,staples,flour-sugar
+Naturaplan Organic Datte Sweetener,/en/food/inventories/staples/flour-sugar/sweeteners/naturaplan-organic-datte-sweetener/p/6444132,300g,3.0,5.95,,,inventories,staples,flour-sugar
+Naturaplan Organic Dried Chickpeas,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/naturaplan-organic-dried-chickpeas/p/3031904,500g,5.0,2.95,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Emmer Wheat Fusilli Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/naturaplan-organic-emmer-wheat-fusilli-pasta/p/4780197,400g,4.5,3.4,,,inventories,staples,pasta
+Naturaplan Organic Fairtrade Basmati Rice,/en/food/inventories/staples/rice/basmati-perfumed/naturaplan-organic-fairtrade-basmati-rice/p/4085071,1000g,5.0,5.95,,,inventories,staples,rice
+Naturaplan Organic Fairtrade Gluten Free Coconut Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-fairtrade-gluten-free-coconut-flour/p/6316089,300g,3.5,2.95,,,inventories,staples,flour-sugar
+Naturaplan Organic Fairtrade Perfumed Rice,/en/food/inventories/staples/rice/basmati-perfumed/naturaplan-organic-fairtrade-perfumed-rice/p/4085076,1000g,5.0,4.5,,,inventories,staples,rice
+Naturaplan Organic Fairtrade Quinoa,/en/food/inventories/staples/grains-corn-semolina/couscous-quinoa-tabbouleh/naturaplan-organic-fairtrade-quinoa/p/4097174,400g,5.0,4.5,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Fairtrade Raw Sugar Cane,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/naturaplan-organic-fairtrade-raw-sugar-cane/p/4426932,600g,4.5,2.15,,,inventories,staples,flour-sugar
+Naturaplan Organic Fairtrade Raw Sugar Cane Packets 50 Pieces,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/naturaplan-organic-fairtrade-raw-sugar-cane-packets-50-pieces/p/4059540,250g,5.0,2.6,,,inventories,staples,flour-sugar
+Naturaplan Organic Fairtrade Red Quinoa,/en/food/inventories/staples/grains-corn-semolina/couscous-quinoa-tabbouleh/naturaplan-organic-fairtrade-red-quinoa/p/4967486,400g,5.0,4.95,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Fairtrade Three-Colour Quinoa,/en/food/inventories/staples/grains-corn-semolina/couscous-quinoa-tabbouleh/naturaplan-organic-fairtrade-three-colour-quinoa/p/4352715,400g,5.0,4.95,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Flaxseed,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-organic-flaxseed/p/5820593,400g,5.0,2.95,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Gluten Free Corn Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-gluten-free-corn-flour/p/6543487,500g,5.0,3.2,,,inventories,staples,flour-sugar
+Naturaplan Organic Gluten Free Whole Grain Rice Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-gluten-free-whole-grain-rice-flour/p/6347644,500g,4.0,3.95,,,inventories,staples,flour-sugar
+Naturaplan Organic Granulated Sugar,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/naturaplan-organic-granulated-sugar/p/6764641,500g,0.0,1.5,,,inventories,staples,flour-sugar
+Naturaplan Organic Granulated Sugar,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/naturaplan-organic-granulated-sugar/p/6354375,1kg,4.0,2.5,,,inventories,staples,flour-sugar
+Naturaplan Organic Green Lentils,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/naturaplan-organic-green-lentils/p/3356408,500g,4.5,3.2,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Half-Half Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-half-half-flour/p/4320218,1kg,4.5,2.95,,,inventories,staples,flour-sugar
+Naturaplan Organic Half White Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-half-white-flour/p/3031309,1kg,5.0,2.95,,,inventories,staples,flour-sugar
+Naturaplan Organic Hemp Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-organic-hemp-seeds/p/6058768,200g,4.5,5.8,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Husked Buckwheat,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/naturaplan-organic-husked-buckwheat/p/3031258,500g,4.0,2.95,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Jacutinga Sugar Cane Sugar,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/naturaplan-organic-jacutinga-sugar-cane-sugar/p/3030939,500g,5.0,2.95,,,inventories,staples,flour-sugar
+Naturaplan Organic Knöpfli Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-knoepfli-flour/p/5824993,1kg,5.0,3.5,,,inventories,staples,flour-sugar
+Naturaplan Organic Lentil Hotpot,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/naturaplan-organic-lentil-hotpot/p/3033040,250g,4.5,3.95,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Lentils,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/naturaplan-organic-lentils/p/3030958,500g,4.5,3.2,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Light Spelt Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-light-spelt-flour/p/5926335,1kg,5.0,4.5,,,inventories,staples,flour-sugar
+Naturaplan Organic Long Grain Rice,/en/food/inventories/staples/rice/long-grain-vitamin/naturaplan-organic-long-grain-rice/p/4085075,1000g,5.0,3.95,,,inventories,staples,rice
+Naturaplan Organic Maple Syrup,/en/food/inventories/staples/flour-sugar/sweeteners/naturaplan-organic-maple-syrup/p/3033188,250ml,5.0,6.5,,,inventories,staples,flour-sugar
+Naturaplan Organic Millet Flakes,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/naturaplan-organic-millet-flakes/p/6290329,500g,5.0,3.95,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Mixed Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-organic-mixed-seeds/p/6061425,300g,4.5,4.95,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Mixed Seeds toasted,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-organic-mixed-seeds-toasted/p/6696439,120g,0.0,4.95,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Multi-Grain Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-multi-grain-flour/p/4421279,1kg,5.0,3.3,,,inventories,staples,flour-sugar
+Naturaplan Organic Nut Mix,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-organic-nut-mix/p/4929082,200g,5.0,5.2,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Penne Rigate Pasta,/en/food/inventories/staples/pasta/penne-hollow-pasta/naturaplan-organic-penne-rigate-pasta/p/4841665,500g,5.0,2.8,,,inventories,staples,pasta
+Naturaplan Organic Pine Nuts,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-organic-pine-nuts/p/3351462,100g,4.5,9.95,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Powdered Sugar,/en/food/inventories/staples/flour-sugar/powder-sugar-special-sugar/naturaplan-organic-powdered-sugar/p/6481477,500g,5.0,2.95,,,inventories,staples,flour-sugar
+Naturaplan Organic Pumpkin Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-organic-pumpkin-seeds/p/6582029,200g,0.0,6.5,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Pumpkin Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-organic-pumpkin-seeds/p/6004997,400g,5.0,6.2,,,inventories,staples,grains-corn-semolina
+Naturaplan organic rapeseeds,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-organic-rapeseeds/p/6689066,200g,3.5,3.95,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Ready To Eat Rösti,/en/food/inventories/staples/potato-products/roesti-gratin/naturaplan-organic-ready-to-eat-roesti/p/3375423,500g,3.5,2.8,,,inventories,staples,potato-products
+Naturaplan Organic Ready To Eat Rösti,/en/food/inventories/staples/potato-products/roesti-gratin/naturaplan-organic-ready-to-eat-roesti/p/3032754,250g,4.5,1.95,,,inventories,staples,potato-products
+Naturaplan Organic Red Kidney Beans,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/naturaplan-organic-red-kidney-beans/p/3356412,500g,3.0,3.8,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Red Lentils,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/naturaplan-organic-red-lentils/p/3356410,500g,4.5,3.2,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Rice Syrup,/en/food/inventories/staples/flour-sugar/sweeteners/naturaplan-organic-rice-syrup/p/5989483,350g,5.0,4.95,,,inventories,staples,flour-sugar
+Naturaplan Organic Risotto Rice,/en/food/inventories/staples/rice/risotto-vialone/naturaplan-organic-risotto-rice/p/3030782,1000g,4.5,4.4,,,inventories,staples,rice
+Naturaplan Organic Rustic Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-rustic-flour/p/3030784,1kg,5.0,2.95,,,inventories,staples,flour-sugar
+Naturaplan Organic Spaghetti Pasta,/en/food/inventories/staples/pasta/spaghetti/naturaplan-organic-spaghetti-pasta/p/4841662,500g,4.5,2.8,,,inventories,staples,pasta
+Naturaplan Organic Spelt Conchiglie Rigate Pasta,/en/food/inventories/staples/pasta/wholegrain-pasta-products/naturaplan-organic-spelt-conchiglie-rigate-pasta/p/4780198,400g,4.0,3.4,,,inventories,staples,pasta
+Naturaplan Organic Spelt Tagliatelle Pasta,/en/food/inventories/staples/pasta/noodles/naturaplan-organic-spelt-tagliatelle-pasta/p/6115046,400g,5.0,3.8,,,inventories,staples,pasta
+Naturaplan Organic Sunflower Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-organic-sunflower-seeds/p/6538811,200g,0.0,4.5,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Sunflower Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/naturaplan-organic-sunflower-seeds/p/4911413,350g,4.0,2.4,,,inventories,staples,grains-corn-semolina
+Naturaplan Organic Tresse Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-tresse-flour/p/5926066,1kg,5.0,3.5,,,inventories,staples,flour-sugar
+Naturaplan Organic White Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-white-flour/p/3388614,500g,5.0,1.6,,,inventories,staples,flour-sugar
+Naturaplan Organic White Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-white-flour/p/3033271,1kg,5.0,2.95,,,inventories,staples,flour-sugar
+Naturaplan Organic Whole Grain Rice,/en/food/inventories/staples/rice/wholegrain-wild-brown/naturaplan-organic-whole-grain-rice/p/3032209,1000g,4.5,3.95,,,inventories,staples,rice
+Naturaplan Organic Whole Grain Spelt Maccheroni,/en/food/inventories/staples/pasta/penne-hollow-pasta/naturaplan-organic-whole-grain-spelt-maccheroni/p/5873095,400g,5.0,3.4,,,inventories,staples,pasta
+Naturaplan Organic Whole Oats,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-whole-oats/p/6519385,300g,3.0,3.95,,,inventories,staples,flour-sugar
+Naturaplan Organic Whole Wheat Flour,/en/food/inventories/staples/flour-sugar/flour/naturaplan-organic-whole-wheat-flour/p/3030040,1kg,4.5,2.95,,,inventories,staples,flour-sugar
+Naturaplan Organic Wide 3-Egg Noodles,/en/food/inventories/staples/pasta/noodles/naturaplan-organic-wide-3-egg-noodles/p/4841794,500g,4.5,3.5,,,inventories,staples,pasta
+Naturaplan Organic Wild Rice,/en/food/inventories/staples/rice/wholegrain-wild-brown/naturaplan-organic-wild-rice/p/4741174,1000g,5.0,5.95,,,inventories,staples,rice
+Naturaplan Organic Yacon Syrup,/en/food/inventories/staples/flour-sugar/sweeteners/naturaplan-organic-yacon-syrup/p/6240137,350g,5.0,7.95,,,inventories,staples,flour-sugar
+Naturaplan organic yellow lentils,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/naturaplan-organic-yellow-lentils/p/4038129,500g,0.0,3.95,,,inventories,staples,grains-corn-semolina
+Naturpark Thal Spelt Egg Noodles,/en/food/inventories/staples/pasta/noodles/naturpark-thal-spelt-egg-noodles/p/4438089,500g,4.5,5.95,,,inventories,staples,pasta
+nu3 Agave Syrup,/en/food/inventories/staples/flour-sugar/sweeteners/nu3-agave-syrup/p/6690421,250g,5.0,4.25,,,inventories,staples,flour-sugar
+nu3 Almond Flour,/en/food/inventories/staples/flour-sugar/flour/nu3-almond-flour/p/6283847,420g,4.0,17.95,,,inventories,staples,flour-sugar
+nu3 Coconut Blossom Sugar,/en/food/inventories/staples/flour-sugar/sweeteners/nu3-coconut-blossom-sugar/p/5887709,200g,3.5,6.95,,,inventories,staples,flour-sugar
+nu3 Fit Spaghetti Pasta,/en/food/inventories/staples/pasta/spaghetti/nu3-fit-spaghetti-pasta/p/6557927,200g,4.5,3.95,,,inventories,staples,pasta
+Osem Couscous Kosher,/en/food/inventories/staples/grains-corn-semolina/couscous-quinoa-tabbouleh/osem-couscous-kosher/p/3021021,250g,5.0,2.95,,,inventories,staples,grains-corn-semolina
+Paella Reis / Arroz Bomba,/en/food/inventories/staples/rice/long-grain-vitamin/paella-reis--arroz-bomba/p/6763695,1000g,5.0,6.95,,,inventories,staples,rice
+Parboiled Long Grain Rice,/en/food/inventories/staples/rice/long-grain-vitamin/parboiled-long-grain-rice/p/4055454,1000g,4.5,3.8,,,inventories,staples,rice
+Parboiled Long Grain Rice,/en/food/inventories/staples/rice/long-grain-vitamin/parboiled-long-grain-rice/p/4085078,1000g,4.5,2.5,,,inventories,staples,rice
+Prix Garantie Alpine Macaroni,/en/food/inventories/staples/pasta/spirals-macaroni/prix-garantie-alpine-macaroni/p/6602638,750g,5.0,1.75,,,inventories,staples,pasta
+Prix Garantie Braid Bread Flour,/en/food/inventories/staples/flour-sugar/flour/prix-garantie-braid-bread-flour/p/6562472,1000g,5.0,1.5,,,inventories,staples,flour-sugar
+Prix Garantie Breadcrumbs,/en/food/inventories/staples/breadcrumbs-sauce-thickener/prix-garantie-breadcrumbs/p/6519639,400g,5.0,0.7,,,inventories,staples,breadcrumbs-sauce-thickener
+Prix Garantie Cedar Nuts,/en/food/inventories/staples/grains-corn-semolina/seeds/prix-garantie-cedar-nuts/p/6705626,150g,3.5,5.7,,,inventories,staples,grains-corn-semolina
+Prix Garantie Couscous,/en/food/inventories/staples/grains-corn-semolina/couscous-quinoa-tabbouleh/prix-garantie-couscous/p/4021880,1000g,5.0,2.2,,,inventories,staples,grains-corn-semolina
+Prix Garantie cream sauce,/en/food/inventories/staples/breadcrumbs-sauce-thickener/prix-garantie-cream-sauce/p/6676239,110g,2.0,1.7,,,inventories,staples,breadcrumbs-sauce-thickener
+Prix Garantie Egg Spiral Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/prix-garantie-egg-spiral-pasta/p/4840436,750g,0.0,1.75,,,inventories,staples,pasta
+Prix Garantie Express Basmati Rice,/en/food/inventories/staples/rice/basmati-perfumed/prix-garantie-express-basmati-rice/p/6696982,250g,5.0,1.6,,,inventories,staples,rice
+Prix Garantie express long-grain rice,/en/food/inventories/staples/rice/long-grain-vitamin/prix-garantie-express-long-grain-rice/p/6696981,250g,5.0,1.6,,,inventories,staples,rice
+Prix Garantie Fairtrade Basmati Rice,/en/food/inventories/staples/rice/basmati-perfumed/prix-garantie-fairtrade-basmati-rice/p/6554532,1000g,4.0,2.5,,,inventories,staples,rice
+Prix Garantie Fine Granulated Sugar,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/prix-garantie-fine-granulated-sugar/p/6582329,1kg,5.0,0.9,,,inventories,staples,flour-sugar
+Prix Garantie Fusilli Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/prix-garantie-fusilli-pasta/p/5609245,1kg,5.0,1.3,,,inventories,staples,pasta
+Prix Garantie hunter-style sauce,/en/food/inventories/staples/breadcrumbs-sauce-thickener/prix-garantie-hunter-style-sauce/p/6676237,102g,0.0,1.7,,,inventories,staples,breadcrumbs-sauce-thickener
+Prix Garantie Macaroni Pasta,/en/food/inventories/staples/pasta/spirals-macaroni/prix-garantie-macaroni-pasta/p/6530128,1kg,4.0,1.2,,,inventories,staples,pasta
+Prix Garantie Maple Syrup,/en/food/inventories/staples/flour-sugar/sweeteners/prix-garantie-maple-syrup/p/6773358,375ml,0.0,5.95,,,inventories,staples,flour-sugar
+Prix Garantie Mashed Potato Powder,/en/food/inventories/staples/potato-products/mashed-potatoes/prix-garantie-mashed-potato-powder/p/4404580,400g,3.0,2.0,,,inventories,staples,potato-products
+Prix Garantie onion sauce,/en/food/inventories/staples/breadcrumbs-sauce-thickener/prix-garantie-onion-sauce/p/6676240,102g,5.0,1.7,,,inventories,staples,breadcrumbs-sauce-thickener
+Prix Garantie Parboiled Long Grain Rice,/en/food/inventories/staples/rice/long-grain-vitamin/prix-garantie-parboiled-long-grain-rice/p/6554390,1000g,4.5,1.05,,,inventories,staples,rice
+Prix Garantie Penne Rigate Pasta,/en/food/inventories/staples/pasta/penne-hollow-pasta/prix-garantie-penne-rigate-pasta/p/4831117,1000g,4.5,1.2,,,inventories,staples,pasta
+Prix Garantie Polenta,/en/food/inventories/staples/grains-corn-semolina/polenta-bramata/prix-garantie-polenta/p/6550662,750g,0.0,0.95,,,inventories,staples,grains-corn-semolina
+Prix Garantie Risotto Rice,/en/food/inventories/staples/rice/risotto-vialone/prix-garantie-risotto-rice/p/6554531,1000g,3.5,1.9,,,inventories,staples,rice
+Prix Garantie Rösti,/en/food/inventories/staples/potato-products/roesti-gratin/prix-garantie-roesti/p/6559606,750g,5.0,2.15,,,inventories,staples,potato-products
+Prix Garantie Spaghetti Pasta,/en/food/inventories/staples/pasta/spaghetti/prix-garantie-spaghetti-pasta/p/4831118,1000g,4.5,1.1,,,inventories,staples,pasta
+Prix Garantie Sugar Cubes,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/prix-garantie-sugar-cubes/p/6528320,1000g,5.0,1.5,,,inventories,staples,flour-sugar
+Prix Garantie Weissmehl,/en/food/inventories/staples/flour-sugar/flour/prix-garantie-weissmehl/p/6562474,1000g,5.0,0.9,,,inventories,staples,flour-sugar
+Pro Montagna Mountain Macaroni,/en/food/inventories/staples/pasta/wholegrain-pasta-products/pro-montagna-mountain-macaroni/p/4798830,500g,4.0,4.6,,,inventories,staples,pasta
+Pro Montagna Organic Grisons Pearl Barley,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/pro-montagna-organic-grisons-pearl-barley/p/4813316,500g,5.0,3.8,,,inventories,staples,grains-corn-semolina
+Pro Montagna Organic Rye Macaroni,/en/food/inventories/staples/pasta/penne-hollow-pasta/pro-montagna-organic-rye-macaroni/p/6442106,400g,5.0,4.95,,,inventories,staples,pasta
+Pro Montagna Whole Grain Rye Flour,/en/food/inventories/staples/flour-sugar/flour/pro-montagna-whole-grain-rye-flour/p/4105961,500g,5.0,1.7,,,inventories,staples,flour-sugar
+Ready To Eat Bernese Rösti with Bacon,/en/food/inventories/staples/potato-products/roesti-gratin/ready-to-eat-bernese-roesti-with-bacon/p/3407859,250g,4.0,1.8,,,inventories,staples,potato-products
+Ready to Eat Fried Potatoes,/en/food/inventories/staples/potato-products/roesti-gratin/ready-to-eat-fried-potatoes/p/3030286,500g,4.0,2.3,,,inventories,staples,potato-products
+Red Kidney Beans,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/red-kidney-beans/p/6222762,540g,4.0,2.3,,,inventories,staples,grains-corn-semolina
+Red Lentils,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/red-lentils/p/6110189,500g,5.0,2.4,,,inventories,staples,grains-corn-semolina
+Rösti,/en/food/inventories/staples/potato-products/roesti-gratin/roesti/p/3030164,250g,4.0,1.3,,,inventories,staples,potato-products
+Rösti fixfertig,/en/food/inventories/staples/potato-products/roesti-gratin/roesti-fixfertig/p/3030287,500g,4.5,1.95,,,inventories,staples,potato-products
+Rummo Farfalle,/en/food/inventories/staples/pasta/shaped-pasta-products/rummo-farfalle/p/5723682,500g,4.5,2.95,,,inventories,staples,pasta
+Rummo Fusilli No.48,/en/food/inventories/staples/pasta/spirals-macaroni/rummo-fusilli-no48/p/6797335,1kg,0.0,3.95,,,inventories,staples,pasta
+Rummo Fusilli Pasta no. 48,/en/food/inventories/staples/pasta/spirals-macaroni/rummo-fusilli-pasta-no-48/p/4789857,500g,5.0,2.95,,,inventories,staples,pasta
+Rummo Gluten Free Penne Rigate Pasta no. 66,/en/food/inventories/staples/pasta/penne-hollow-pasta/rummo-gluten-free-penne-rigate-pasta-no-66/p/6238065,400g,5.0,3.2,,,inventories,staples,pasta
+Rummo Gluten Free Spaghetti Pasta no. 3,/en/food/inventories/staples/pasta/spaghetti/rummo-gluten-free-spaghetti-pasta-no-3/p/6238066,400g,4.5,3.2,,,inventories,staples,pasta
+Rummo Linguine Pasta no. 13,/en/food/inventories/staples/pasta/noodles/rummo-linguine-pasta-no-13/p/6128020,500g,5.0,2.95,,,inventories,staples,pasta
+Rummo Mafaldine Pasta no. 80,/en/food/inventories/staples/pasta/shaped-pasta-products/rummo-mafaldine-pasta-no-80/p/5723685,500g,5.0,3.2,,,inventories,staples,pasta
+Rummo Mezzi Rigatoni No.51,/en/food/inventories/staples/pasta/penne-hollow-pasta/rummo-mezzi-rigatoni-no51/p/6797502,1kg,5.0,3.95,,,inventories,staples,pasta
+Rummo Mezzi Rigatoni No.51,/en/food/inventories/staples/pasta/penne-hollow-pasta/rummo-mezzi-rigatoni-no51/p/4789854,500g,4.5,2.95,,,inventories,staples,pasta
+Rummo Orecchiette No.87,/en/food/inventories/staples/pasta/shaped-pasta-products/rummo-orecchiette-no87/p/5885151,500g,4.5,2.95,,,inventories,staples,pasta
+Rummo Organic Integrali Spaghetti Pasta no. 3,/en/food/inventories/staples/pasta/spaghetti/rummo-organic-integrali-spaghetti-pasta-no-3/p/6238064,500g,5.0,3.2,,,inventories,staples,pasta
+Rummo Organic Penne Rigate Pasta no. 66,/en/food/inventories/staples/pasta/penne-hollow-pasta/rummo-organic-penne-rigate-pasta-no-66/p/6238063,500g,4.5,3.2,,,inventories,staples,pasta
+Rummo Paccheri Pasta no. 111,/en/food/inventories/staples/pasta/penne-hollow-pasta/rummo-paccheri-pasta-no-111/p/5723688,500g,5.0,3.2,,,inventories,staples,pasta
+Rummo Penne Rigate No.66,/en/food/inventories/staples/pasta/penne-hollow-pasta/rummo-penne-rigate-no66/p/4789942,500g,5.0,2.95,,,inventories,staples,pasta
+Rummo Radiatori Pasta,/en/food/inventories/staples/pasta/shaped-pasta-products/rummo-radiatori-pasta/p/6029725,500g,5.0,2.95,,,inventories,staples,pasta
+Rummo Spaghetti Grossi Pasta no. 5,/en/food/inventories/staples/pasta/spaghetti/rummo-spaghetti-grossi-pasta-no-5/p/5885155,500g,5.0,2.95,,,inventories,staples,pasta
+Rummo Spaghetti No.3,/en/food/inventories/staples/pasta/spaghetti/rummo-spaghetti-no3/p/4789939,500g,5.0,2.95,,,inventories,staples,pasta
+Rummo Spaghetti No.5,/en/food/inventories/staples/pasta/spaghetti/rummo-spaghetti-no5/p/6797504,1kg,5.0,3.95,,,inventories,staples,pasta
+Saitaku Ramen Noodles,/en/food/inventories/staples/pasta/noodles/saitaku-ramen-noodles/p/6153356,250g,5.0,2.45,,,inventories,staples,pasta
+Saitaku Roasted Black Sesame Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/saitaku-roasted-black-sesame-seeds/p/4281115,95g,5.0,3.95,,,inventories,staples,grains-corn-semolina
+Saitaku Roasted White Sesame Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/saitaku-roasted-white-sesame-seeds/p/4281014,95g,3.5,3.9,,,inventories,staples,grains-corn-semolina
+Saitaku Soba Noodles,/en/food/inventories/staples/pasta/noodles/saitaku-soba-noodles/p/4054860,300g,4.5,4.2,,,inventories,staples,pasta
+Saitaku Sushi Rice,/en/food/inventories/staples/rice/basmati-perfumed/saitaku-sushi-rice/p/4054837,500g,4.5,3.4,,,inventories,staples,rice
+Sapori d'Italia Bucati Fusilli Pasta,/en/food/inventories/staples/pasta/shaped-pasta-products/sapori-d-italia-bucati-fusilli-pasta/p/6328634,500g,5.0,2.8,,,inventories,staples,pasta
+Sapori d'Italia Calamarata,/en/food/inventories/staples/pasta/shaped-pasta-products/sapori-d-italia-calamarata/p/6328100,500g,0.0,2.95,,,inventories,staples,pasta
+Sapori d'Italia Casarecce,/en/food/inventories/staples/pasta/shaped-pasta-products/sapori-d-italia-casarecce/p/6328631,500g,5.0,2.8,,,inventories,staples,pasta
+Sapori d'Italia Conchiglioni,/en/food/inventories/staples/pasta/shaped-pasta-products/sapori-d-italia-conchiglioni/p/6328632,500g,4.5,2.95,,,inventories,staples,pasta
+Sapori d'Italia Fusilloni,/en/food/inventories/staples/pasta/spirals-macaroni/sapori-d-italia-fusilloni/p/6328843,500g,0.0,2.95,,,inventories,staples,pasta
+Sapori d'Italia Linguine,/en/food/inventories/staples/pasta/spaghetti/sapori-d-italia-linguine/p/6328847,500g,5.0,2.8,,,inventories,staples,pasta
+Sapori d'Italia Mushroom Tomato Risotto,/en/food/inventories/staples/rice/risotto-vialone/sapori-d-italia-mushroom-tomato-risotto/p/6379059,300g,5.0,4.5,,,inventories,staples,rice
+Sapori d'Italia pasta flour,/en/food/inventories/staples/flour-sugar/flour/sapori-d-italia-pasta-flour/p/6316842,1kg,4.5,3.5,,,inventories,staples,flour-sugar
+Sapori d'Italia pizza flour,/en/food/inventories/staples/flour-sugar/flour/sapori-d-italia-pizza-flour/p/6316841,1kg,4.5,2.95,,,inventories,staples,flour-sugar
+Sapori d'Italia Porcini Risotto,/en/food/inventories/staples/rice/risotto-vialone/sapori-d-italia-porcini-risotto/p/6379058,300g,3.5,4.5,,,inventories,staples,rice
+Sapori d'Italia Tomato Risotto,/en/food/inventories/staples/rice/risotto-vialone/sapori-d-italia-tomato-risotto/p/6379054,300g,3.5,4.5,,,inventories,staples,rice
+Sapori d'Italia Truffle Risotto,/en/food/inventories/staples/rice/risotto-vialone/sapori-d-italia-truffle-risotto/p/6379092,300g,4.5,4.95,,,inventories,staples,rice
+Sapori d’Italia Risotto Zafferano,/en/food/inventories/staples/rice/risotto-vialone/sapori-d-italia-risotto-zafferano/p/6720498,300g,3.0,4.5,,,inventories,staples,rice
+Sapori Gnocchi Sardi,/en/food/inventories/staples/pasta/shaped-pasta-products/sapori-gnocchi-sardi/p/6328845,500g,5.0,2.8,,,inventories,staples,pasta
+Sapori Penne Rigate,/en/food/inventories/staples/pasta/penne-hollow-pasta/sapori-penne-rigate/p/6328848,500g,5.0,2.8,,,inventories,staples,pasta
+Sapori Radiatori,/en/food/inventories/staples/pasta/shaped-pasta-products/sapori-radiatori/p/6328850,500g,4.0,2.8,,,inventories,staples,pasta
+Sapori Rigatoni,/en/food/inventories/staples/pasta/penne-hollow-pasta/sapori-rigatoni/p/6328852,500g,5.0,2.8,,,inventories,staples,pasta
+Sapori Spaghetti,/en/food/inventories/staples/pasta/spaghetti/sapori-spaghetti/p/6328853,500g,5.0,2.8,,,inventories,staples,pasta
+Schär Gluten Free Breadcrumbs,/en/food/inventories/staples/breadcrumbs-sauce-thickener/schaer-gluten-free-breadcrumbs/p/4704865,300g,5.0,4.1,,,inventories,staples,breadcrumbs-sauce-thickener
+Schär Gluten Free Bread Mix,/en/food/inventories/staples/flour-sugar/flour/schaer-gluten-free-bread-mix/p/3980118,1kg,4.5,6.4,,,inventories,staples,flour-sugar
+Schär Gluten Free Mix C Cake & Cookie Flour Mix,/en/food/inventories/staples/flour-sugar/flour/schaer-gluten-free-mix-c-cake-cookie-flour-mix/p/5802546,1kg,5.0,5.6,,,inventories,staples,flour-sugar
+Schär Gluten Free Universal Flour,/en/food/inventories/staples/flour-sugar/flour/schaer-gluten-free-universal-flour/p/6367680,1kg,5.0,7.5,,,inventories,staples,flour-sugar
+Seeberger Almond & Cranberry Mix,/en/food/inventories/staples/grains-corn-semolina/seeds/seeberger-almond-cranberry-mix/p/6708313,50g,0.0,1.95,,,inventories,staples,grains-corn-semolina
+Seeberger Almond Cranberry Mix,/en/food/inventories/staples/grains-corn-semolina/seeds/seeberger-almond-cranberry-mix/p/6543031,150g,4.5,3.95,,,inventories,staples,grains-corn-semolina
+Seeberger Chia Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/seeberger-chia-seeds/p/5714926,250g,5.0,4.95,,,inventories,staples,grains-corn-semolina
+Seeberger Nut Mix,/en/food/inventories/staples/grains-corn-semolina/seeds/seeberger-nut-mix/p/4390228,200g,4.5,5.95,,,inventories,staples,grains-corn-semolina
+Seeberger Pine Nuts,/en/food/inventories/staples/grains-corn-semolina/seeds/seeberger-pine-nuts/p/6455100,50g,5.0,5.5,,,inventories,staples,grains-corn-semolina
+Seeberger Shelled Pumpkin Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/seeberger-shelled-pumpkin-seeds/p/4390106,200g,4.5,4.95,,,inventories,staples,grains-corn-semolina
+Seeberger Vital Nut Mix,/en/food/inventories/staples/grains-corn-semolina/seeds/seeberger-vital-nut-mix/p/4390170,150g,5.0,3.3,,,inventories,staples,grains-corn-semolina
+Slow Food Farina Bona,/en/food/inventories/staples/flour-sugar/flour/slow-food-farina-bona/p/3690806,250g,0.0,5.75,,,inventories,staples,flour-sugar
+Slow Food Polenta Onsernone,/en/food/inventories/staples/grains-corn-semolina/polenta-bramata/slow-food-polenta-onsernone/p/5610301,500g,4.5,6.95,,,inventories,staples,grains-corn-semolina
+Slow Food St-Flour Blond Lentils,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/slow-food-st-flour-blond-lentils/p/3614306,500g,5.0,7.5,,,inventories,staples,grains-corn-semolina
+Slow Food Vialone Nano Semi-Fine Rice,/en/food/inventories/staples/rice/risotto-vialone/slow-food-vialone-nano-semi-fine-rice/p/4060295,500g,4.5,5.5,,,inventories,staples,rice
+SteviaSweet Crystal Sweetener,/en/food/inventories/staples/flour-sugar/sweeteners/steviasweet-crystal-sweetener/p/4463339,250g,4.5,8.95,,,inventories,staples,flour-sugar
+SteviaSweet Sweetener Tablets 200 Pieces,/en/food/inventories/staples/flour-sugar/sweeteners/steviasweet-sweetener-tablets-200-pieces/p/3946091,200PCE,4.0,6.95,,,inventories,staples,flour-sugar
+Sugar Sticks,/en/food/inventories/staples/flour-sugar/sugar-cane-sugar/sugar-sticks/p/6594623,500g,5.0,2.6,,,inventories,staples,flour-sugar
+Suisse Garantie preserving sugar,/en/food/inventories/staples/flour-sugar/powder-sugar-special-sugar/suisse-garantie-preserving-sugar/p/6649714,1kg,0.0,2.1,,,inventories,staples,flour-sugar
+Suntat Medium Couscous,/en/food/inventories/staples/grains-corn-semolina/couscous-quinoa-tabbouleh/suntat-medium-couscous/p/6587811,500g,0.0,2.95,,,inventories,staples,grains-corn-semolina
+Suntat Polenta,/en/food/inventories/staples/grains-corn-semolina/polenta-bramata/suntat-polenta/p/6748688,1000g,0.0,3.8,,,inventories,staples,grains-corn-semolina
+Telma Kosher Falafel Mix,/en/food/inventories/staples/flour-sugar/flour/telma-kosher-falafel-mix/p/3032610,180g,4.0,5.5,,,inventories,staples,flour-sugar
+Telma Kosher Potato Latkes,/en/food/inventories/staples/potato-products/mashed-potatoes/telma-kosher-potato-latkes/p/3376024,170g,4.5,6.95,,,inventories,staples,potato-products
+Thai Kitchen Jasmine Rice 500g,/en/food/inventories/staples/rice/basmati-perfumed/thai-kitchen-jasmine-rice-500g/p/3022861,500g,5.0,3.3,,20% on 2 or more,inventories,staples,rice
+Thai Kitchen Nest of Noodles,/en/food/inventories/staples/pasta/noodles/thai-kitchen-nest-of-noodles/p/3476253,450g,5.0,4.2,,20% on 2 or more,inventories,staples,pasta
+Thai Kitchen Rice Noodles,/en/food/inventories/staples/pasta/noodles/thai-kitchen-rice-noodles/p/3360488,250g,5.0,2.8,,20% on 2 or more,inventories,staples,pasta
+Tipiak Bulgur,/en/food/inventories/staples/grains-corn-semolina/couscous-quinoa-tabbouleh/tipiak-bulgur/p/5885721,500g,4.0,3.3,,,inventories,staples,grains-corn-semolina
+Tipiak Couscous,/en/food/inventories/staples/grains-corn-semolina/couscous-quinoa-tabbouleh/tipiak-couscous/p/3355004,500g,5.0,2.1,,,inventories,staples,grains-corn-semolina
+Tipiak Express Quick Couscous 5x100g,/en/food/inventories/staples/grains-corn-semolina/couscous-quinoa-tabbouleh/tipiak-express-quick-couscous-5x100g/p/3355005,500g,5.0,2.95,,,inventories,staples,grains-corn-semolina
+Tipiak Pearl Couscous,/en/food/inventories/staples/grains-corn-semolina/couscous-quinoa-tabbouleh/tipiak-pearl-couscous/p/6588788,200g,5.0,3.5,,,inventories,staples,grains-corn-semolina
+Tipiak Whole Grain Couscous,/en/food/inventories/staples/grains-corn-semolina/couscous-quinoa-tabbouleh/tipiak-whole-grain-couscous/p/6374174,500g,5.0,2.95,,,inventories,staples,grains-corn-semolina
+USA Parboiled Vitamin Rice,/en/food/inventories/staples/rice/long-grain-vitamin/usa-parboiled-vitamin-rice/p/3030122,1000g,4.5,3.95,,,inventories,staples,rice
+USA Vitamin Rice,/en/food/inventories/staples/rice/long-grain-vitamin/usa-vitamin-rice/p/4101799,2000g,4.5,6.95,,,inventories,staples,rice
+Wheat Semolina,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/wheat-semolina/p/3031908,500g,4.5,1.4,,,inventories,staples,grains-corn-semolina
+White Flour IP Suisse,/en/food/inventories/staples/flour-sugar/flour/white-flour-ip-suisse/p/6562475,1000g,5.0,1.75,,33% on 3 or more,inventories,staples,flour-sugar
+White Spelt Flour,/en/food/inventories/staples/flour-sugar/flour/white-spelt-flour/p/3475044,1kg,5.0,3.95,,33% on 3 or more,inventories,staples,flour-sugar
+Wild Rice Mix,/en/food/inventories/staples/rice/wholegrain-wild-brown/wild-rice-mix/p/3633703,1000g,5.0,3.5,,,inventories,staples,rice
+Xylit Birch Beech Sweetener,/en/food/inventories/staples/flour-sugar/sweeteners/xylit-birch-beech-sweetener/p/5735616,500g,4.5,4.95,,,inventories,staples,flour-sugar
+Zenbu Black Sesame Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/zenbu-black-sesame-seeds/p/6633578,95g,5.0,4.2,,,inventories,staples,grains-corn-semolina
+Zenbu Panko Breadcrumbs,/en/food/inventories/staples/breadcrumbs-sauce-thickener/zenbu-panko-breadcrumbs/p/6633577,150g,5.0,2.95,,,inventories,staples,breadcrumbs-sauce-thickener
+Zenbu Ramen Noodles,/en/food/inventories/staples/pasta/noodles/zenbu-ramen-noodles/p/6680362,250g,5.0,2.6,,,inventories,staples,pasta
+Zenbu Shirataki noodles,/en/food/inventories/staples/pasta/noodles/zenbu-shirataki-noodles/p/6773275,200g,4.5,2.7,,,inventories,staples,pasta
+Zenbu Shirataki Rice,/en/food/inventories/staples/rice/basmati-perfumed/zenbu-shirataki-rice/p/6679980,200g,4.0,2.95,,,inventories,staples,rice
+Zenbu Soba Noodles,/en/food/inventories/staples/pasta/noodles/zenbu-soba-noodles/p/6680361,300g,5.0,4.2,,,inventories,staples,pasta
+Zenbu Sushi Rice,/en/food/inventories/staples/rice/basmati-perfumed/zenbu-sushi-rice/p/6372165,500g,4.0,3.4,,,inventories,staples,rice
+Zenbu Udon Noodles,/en/food/inventories/staples/pasta/noodles/zenbu-udon-noodles/p/6633642,300g,2.0,4.3,,,inventories,staples,pasta
+Zenbu White Sesame Seeds,/en/food/inventories/staples/grains-corn-semolina/seeds/zenbu-white-sesame-seeds/p/6633580,95g,5.0,4.2,,,inventories,staples,grains-corn-semolina
+Zurich Region Fine Flour,/en/food/inventories/staples/flour-sugar/flour/zurich-region-fine-flour/p/4389479,1kg,5.0,1.95,,,inventories,staples,flour-sugar
+Zwicky pearl barley medium,/en/food/inventories/staples/grains-corn-semolina/lentils-beans-grains/zwicky-pearl-barley-medium/p/6749283,500g,0.0,2.3,,,inventories,staples,grains-corn-semolina

@@ -11,10 +11,12 @@ Using python packages selenium and webdriver_manager, we fetch the html body for
 filter the targeted data. This data has been saved as csv and saved to S3 Bucket.
 Additionally, the latest data will be loaded to the AWS RDS Postgres SQL database
 </p>
-
-
-<p><b>How to run the code</b><p/>
-* python
-  ```sh
-  python3 -m venv venv
-  ```
+<br><br>
+<p><b>Changes & additional features</b></p>
+<ul>
+<li>Optimised updating data into RDS Database (PostgreSQL)</li>
+<li>Additionally creating a master_csv file including all products instead seperate csv for each Coop product categories</li>
+<li>Functions to unify units variation within the products and compute the price per 100 unit for each product</li>
+<li>Creating additional tables by joining multiple data lakes with complex computations</li>
+<li>Removing brakets and other characters from strings which are transformed previously by json parsing</li>
+</ul>
